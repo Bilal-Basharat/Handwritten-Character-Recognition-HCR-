@@ -1,7 +1,7 @@
 # Handwritten-Character-Recognition-HCR-
 Recognition of handwritten characters plays a pivotal role in advancing human-computer interaction. The inherent vagueness and variability in individual writing styles and strokes pose challenges to the task. Moreover, dealing with the potential decline in source image quality adds complexity to the endeavor.
 
-#Objective
+# Objective
 1. It can be used to convert handwritten materials into digital text, improving accessibility
 for individuals with visual impairments
 2. Reduced man-power to convert old literature into digitized form manually.
@@ -9,11 +9,11 @@ for individuals with visual impairments
 4. Enriching the digitized library with the contents that have not been digitized.
 5. It can aid educators by digitizing handwritten assignments and notes
 
-#Data Collection
+# Data Collection
 The project dataset is openly available on Kaggle (English Handwritten Characters) consisting
 of around 3.4k image samples.
 
-#Conclusion
+# Conclusion
 A proposed handwritten character recognition system has been designed and tested. ANNs have
 been trained for this purpose with various types of input samples and that’s why the developed
 program has an ability to test and classify the input character into 52 different classes with an
